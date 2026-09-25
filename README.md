@@ -42,8 +42,8 @@ I build reliable backend systems and APIs, work comfortably across relational an
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Saeedzx6&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mohammed's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saeedzx6&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+<img height="165" src="https://github-readme-stats-beige-two-89.vercel.app/api?username=Saeedzx6&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mohammed's GitHub stats" />
+<img height="165" src="https://github-readme-stats-beige-two-89.vercel.app/api/top-langs/?username=Saeedzx6&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com/?user=Saeedzx6&theme=radical&hide_border=true" alt="GitHub streak stats" />
 
